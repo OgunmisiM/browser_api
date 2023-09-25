@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  text-align: center;
+  margin-block: 1.5rem;
+}
+li {
+  margin-block: 10px;
+}
+
+ul {
+  list-style-position: inside;
+  margin-inline: 20px;
+}
+.newItem {
+  margin-inline: 20px;
+}
+button {
+  padding: 10px;
+  margin-inline: 20px;
+}
+input {
+  padding: 10px;
+}
